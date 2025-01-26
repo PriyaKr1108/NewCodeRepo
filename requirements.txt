@@ -1,0 +1,13 @@
+# Core dependencies
+aiohttp==3.9.3
+beautifulsoup4==4.12.3
+pandas==2.2.1
+python-dotenv==1.0.0
+schedule==1.2.1
+
+# Development and testing
+pytest==8.0.2
+logging==0.5.1.2
+
+# Optional: for additional data processing
+numpy==1.26.4
